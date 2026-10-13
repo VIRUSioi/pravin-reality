@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /send-mail.php
+
+Sitemap: https://pravinrealty.com/sitemap.xml
